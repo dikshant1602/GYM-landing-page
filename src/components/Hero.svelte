@@ -1,6 +1,5 @@
 <script>
     import CtAs from "./CTAs.svelte";
-  import FaQs from "./FAQs.svelte";
     import Header from "./Header.svelte";
     import SectionWrapper from "./SectionWrapper.svelte";
     import Stars from "./Stars.svelte";

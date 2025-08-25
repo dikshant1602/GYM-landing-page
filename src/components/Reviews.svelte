@@ -1,5 +1,5 @@
 
-<script>
+<script lang="ts ">
     import ReviewCard from "./ReviewCard.svelte";
     import SectionWrapper from "./SectionWrapper.svelte";
     import Stars from "./Stars.svelte";
