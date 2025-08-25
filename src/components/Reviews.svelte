@@ -105,7 +105,7 @@
         </button>
         <div class="flex flex-col gap-10">
             <p class="mx-auto text-lg sm:text-xl md:text-2xl font-semibold">
-                Trusted by 1,349 Swoldiers
+                Trusted by 1,852 Members
             </p>
             <Stars />
         </div>
